@@ -1,0 +1,14 @@
+C:\Users\mayro\OneDrive\Área de Trabalho\InterfaceExemplo\bin\Debug\net9.0\InterfaceExemplo.exe
+C:\Users\mayro\OneDrive\Área de Trabalho\InterfaceExemplo\bin\Debug\net9.0\InterfaceExemplo.deps.json
+C:\Users\mayro\OneDrive\Área de Trabalho\InterfaceExemplo\bin\Debug\net9.0\InterfaceExemplo.runtimeconfig.json
+C:\Users\mayro\OneDrive\Área de Trabalho\InterfaceExemplo\bin\Debug\net9.0\InterfaceExemplo.dll
+C:\Users\mayro\OneDrive\Área de Trabalho\InterfaceExemplo\bin\Debug\net9.0\InterfaceExemplo.pdb
+C:\Users\mayro\OneDrive\Área de Trabalho\InterfaceExemplo\obj\Debug\net9.0\InterfaceExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayro\OneDrive\Área de Trabalho\InterfaceExemplo\obj\Debug\net9.0\InterfaceExemplo.AssemblyInfoInputs.cache
+C:\Users\mayro\OneDrive\Área de Trabalho\InterfaceExemplo\obj\Debug\net9.0\InterfaceExemplo.AssemblyInfo.cs
+C:\Users\mayro\OneDrive\Área de Trabalho\InterfaceExemplo\obj\Debug\net9.0\InterfaceExemplo.csproj.CoreCompileInputs.cache
+C:\Users\mayro\OneDrive\Área de Trabalho\InterfaceExemplo\obj\Debug\net9.0\InterfaceExemplo.dll
+C:\Users\mayro\OneDrive\Área de Trabalho\InterfaceExemplo\obj\Debug\net9.0\refint\InterfaceExemplo.dll
+C:\Users\mayro\OneDrive\Área de Trabalho\InterfaceExemplo\obj\Debug\net9.0\InterfaceExemplo.pdb
+C:\Users\mayro\OneDrive\Área de Trabalho\InterfaceExemplo\obj\Debug\net9.0\InterfaceExemplo.genruntimeconfig.cache
+C:\Users\mayro\OneDrive\Área de Trabalho\InterfaceExemplo\obj\Debug\net9.0\ref\InterfaceExemplo.dll
